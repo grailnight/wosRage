@@ -1,0 +1,21 @@
+{
+  "activation_key": "R",
+  "intro_clip": "bs3fidgit_2",
+  "intro_seconds": 3.5,
+  "intro_grow_seconds": 2.5,
+  "rage_seconds": 20,
+  "still_speed": 0.6,
+  "rage_moves": [],
+  "whip_hold_seconds": 0.25,
+  "clip_swaps": {
+    "smbrightpunch": "smbwallatckrightpoundsingle",
+    "smbrightpunch_nc": "smbwallatckrightpoundsingle",
+    "smbleftpunch": "smbwallatckleftpound",
+    "smbrun2leftpunch": "smbwallatckleftpound",
+    "smbrightelbow": "smbwallatckdoublepound",
+    "smbstomp": "smbwallatckdoublepound",
+    "smbstomp_nc": "smbwallatckdoublepound",
+    "smbbackhandender": "smbwallatckrighttriplepound"
+  },
+  "whip_repeat_seconds": 0.45
+}

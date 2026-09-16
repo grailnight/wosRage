@@ -1,0 +1,945 @@
+{
+  "source": "MEGACITY/0x348760AC.Spiderman_rvb.als (game animation set, read locally; not shipped)",
+  "sha256": "fabf822f8e5f4a432c0a349149f6fecce68ca38e03a58a78b39ec3769d38f1c4",
+  "records": [
+    {
+      "name": "smbichorarmpull",
+      "name_offset": 64324,
+      "node_hash": "04FE8810",
+      "anim_hash": "34BD96D4",
+      "references": [
+        64200,
+        2273644,
+        2273684,
+        2273724,
+        2273764,
+        2273804,
+        2273844,
+        2273884,
+        2273924,
+        2273964,
+        2274004,
+        2274044,
+        2274084,
+        2274124,
+        2274164,
+        2274204,
+        2274244,
+        2274284,
+        2274324,
+        2274364,
+        2274404,
+        2274444,
+        2274484,
+        2274524
+      ]
+    },
+    {
+      "name": "smbichorsummonexit",
+      "name_offset": 125500,
+      "node_hash": "0CDB6C57",
+      "anim_hash": "5BBA5A70",
+      "references": [
+        125376,
+        2249276
+      ]
+    },
+    {
+      "name": "smbichorshoulderair",
+      "name_offset": 134972,
+      "node_hash": "0D627BAD",
+      "anim_hash": "EB3E18F9",
+      "references": [
+        134848,
+        2218496
+      ]
+    },
+    {
+      "name": "smbrightelbow",
+      "name_offset": 176228,
+      "node_hash": "13C79C85",
+      "anim_hash": "8AA8B599",
+      "references": [
+        176104,
+        2252668
+      ]
+    },
+    {
+      "name": "smbichorshoulder",
+      "name_offset": 197292,
+      "node_hash": "1619FCBE",
+      "anim_hash": "6C4AC37D",
+      "references": [
+        197168,
+        2255980,
+        2256148
+      ]
+    },
+    {
+      "name": "smbichorchoke_wall",
+      "name_offset": 207308,
+      "node_hash": "17B93E45",
+      "anim_hash": "56F53310",
+      "references": [
+        207184,
+        2327168
+      ]
+    },
+    {
+      "name": "smbrightelbow",
+      "name_offset": 282732,
+      "node_hash": "2420DE65",
+      "anim_hash": "8AA8B599",
+      "references": [
+        282608,
+        2253036
+      ]
+    },
+    {
+      "name": "smbrightelbow",
+      "name_offset": 319932,
+      "node_hash": "2B1BB489",
+      "anim_hash": "8AA8B599",
+      "references": [
+        319808,
+        2251708
+      ]
+    },
+    {
+      "name": "smbichorgroundslam_wall",
+      "name_offset": 405836,
+      "node_hash": "37039BE8",
+      "anim_hash": "AF896102",
+      "references": [
+        405712,
+        2326524,
+        2326732
+      ]
+    },
+    {
+      "name": "smbichorgroundslam",
+      "name_offset": 445900,
+      "node_hash": "3D9E11DC",
+      "anim_hash": "0B192533",
+      "references": [
+        445776,
+        2275592,
+        2275780
+      ]
+    },
+    {
+      "name": "smbichorsummon_03",
+      "name_offset": 449444,
+      "node_hash": "3DF5AC1F",
+      "anim_hash": "4898E778",
+      "references": [
+        449320,
+        2248328
+      ]
+    },
+    {
+      "name": "smbichorjump",
+      "name_offset": 470492,
+      "node_hash": "40304462",
+      "anim_hash": "C737B053",
+      "references": [
+        470368,
+        2211576,
+        2211748,
+        2211788
+      ]
+    },
+    {
+      "name": "smbichorchoke",
+      "name_offset": 484068,
+      "node_hash": "425C4004",
+      "anim_hash": "ADA7F681",
+      "references": [
+        483944,
+        2276652
+      ]
+    },
+    {
+      "name": "smbichorshoulderair",
+      "name_offset": 501884,
+      "node_hash": "4449AAD3",
+      "anim_hash": "EB3E18F9",
+      "references": [
+        501760,
+        2216708
+      ]
+    },
+    {
+      "name": "smbichorshoulderair",
+      "name_offset": 508172,
+      "node_hash": "458C7162",
+      "anim_hash": "EB3E18F9",
+      "references": [
+        508048,
+        2216616
+      ]
+    },
+    {
+      "name": "smbichorsummon",
+      "name_offset": 532388,
+      "node_hash": "497801DD",
+      "anim_hash": "88E380B6",
+      "references": [
+        532264,
+        2247892
+      ]
+    },
+    {
+      "name": "smbichorarmpullair",
+      "name_offset": 583844,
+      "node_hash": "4CC3B5DD",
+      "anim_hash": "AA53C0F0",
+      "references": [
+        583720,
+        2210524,
+        2210564,
+        2210604,
+        2210644,
+        2210684,
+        2210724,
+        2210764,
+        2210804,
+        2210844,
+        2210884,
+        2210924,
+        2210964,
+        2211004,
+        2211044,
+        2211084,
+        2211124,
+        2211164,
+        2211204,
+        2211244,
+        2211284,
+        2211324,
+        2211364,
+        2211404
+      ]
+    },
+    {
+      "name": "smbrightelbow",
+      "name_offset": 645308,
+      "node_hash": "520064C6",
+      "anim_hash": "8AA8B599",
+      "references": [
+        645184,
+        2253792
+      ]
+    },
+    {
+      "name": "smbichorsummonexit",
+      "name_offset": 662020,
+      "node_hash": "54153A96",
+      "anim_hash": "5BBA5A70",
+      "references": [
+        661896,
+        2249124
+      ]
+    },
+    {
+      "name": "smbairswipebackhand_claw",
+      "name_offset": 674100,
+      "node_hash": "5476EF1E",
+      "anim_hash": "609A4358",
+      "references": [
+        673976,
+        2007208,
+        2198036
+      ]
+    },
+    {
+      "name": "smbichorchoke_wall",
+      "name_offset": 736956,
+      "node_hash": "5CBEF89A",
+      "anim_hash": "56F53310",
+      "references": [
+        736832,
+        2326940
+      ]
+    },
+    {
+      "name": "smbichorgrndzip",
+      "name_offset": 783740,
+      "node_hash": "602E17C7",
+      "anim_hash": "02A69C35",
+      "references": [
+        783616,
+        2276964,
+        2277004,
+        2277044,
+        2277084,
+        2277124,
+        2277164,
+        2277204,
+        2277244,
+        2277284,
+        2277324,
+        2277364,
+        2277404,
+        2277444,
+        2277484,
+        2277524,
+        2277564,
+        2277604,
+        2277644,
+        2277684,
+        2277724,
+        2277764,
+        2277804,
+        2277844,
+        2277884,
+        2277924,
+        2277964,
+        2278004
+      ]
+    },
+    {
+      "name": "smbichorarmpull",
+      "name_offset": 829332,
+      "node_hash": "65F06267",
+      "anim_hash": "34BD96D4",
+      "references": [
+        829208,
+        2272544,
+        2272584,
+        2272624,
+        2272664,
+        2272704,
+        2272744,
+        2272784,
+        2272824,
+        2272864,
+        2272904,
+        2272944,
+        2272984,
+        2273024,
+        2273064,
+        2273104,
+        2273144,
+        2273184,
+        2273224,
+        2273264,
+        2273304,
+        2273344,
+        2273384,
+        2273424
+      ]
+    },
+    {
+      "name": "smbrightpunch_nc",
+      "name_offset": 855084,
+      "node_hash": "6AACC565",
+      "anim_hash": "C3FAEDEE",
+      "references": [
+        854960,
+        2250136
+      ]
+    },
+    {
+      "name": "smbichorjump",
+      "name_offset": 869164,
+      "node_hash": "6CD583F6",
+      "anim_hash": "C737B053",
+      "references": [
+        869040,
+        2325212,
+        2325384,
+        2325424
+      ]
+    },
+    {
+      "name": "smbichorgroundslam",
+      "name_offset": 932788,
+      "node_hash": "765DE1C7",
+      "anim_hash": "0B192533",
+      "references": [
+        932664,
+        2276008,
+        2276216
+      ]
+    },
+    {
+      "name": "smbichorshoulder_wall",
+      "name_offset": 971364,
+      "node_hash": "7D417B16",
+      "anim_hash": "B30B7D8C",
+      "references": [
+        971240,
+        2330448
+      ]
+    },
+    {
+      "name": "smbrightpunch_nc",
+      "name_offset": 980708,
+      "node_hash": "7DE4FA66",
+      "anim_hash": "C3FAEDEE",
+      "references": [
+        980584,
+        2250340
+      ]
+    },
+    {
+      "name": "smbichorgrndzip",
+      "name_offset": 1083868,
+      "node_hash": "8BC9AC50",
+      "anim_hash": "02A69C35",
+      "references": [
+        1083744,
+        2278240,
+        2278280,
+        2278320,
+        2278360,
+        2278400,
+        2278440,
+        2278480,
+        2278520,
+        2278560,
+        2278600,
+        2278640,
+        2278680,
+        2278720,
+        2278760,
+        2278800,
+        2278840,
+        2278880,
+        2278920,
+        2278960,
+        2279000,
+        2279040,
+        2279080,
+        2279120,
+        2279160,
+        2279200,
+        2279240,
+        2279280
+      ]
+    },
+    {
+      "name": "smbstomp",
+      "name_offset": 1099628,
+      "node_hash": "8DCC579D",
+      "anim_hash": "D51A9175",
+      "references": [
+        1099504,
+        2251136
+      ]
+    },
+    {
+      "name": "smbleftpunch",
+      "name_offset": 1119724,
+      "node_hash": "90FB5CD2",
+      "anim_hash": "6EC7B6CB",
+      "references": [
+        1119600,
+        2249764
+      ]
+    },
+    {
+      "name": "smbleftpunch",
+      "name_offset": 1125460,
+      "node_hash": "919075B3",
+      "anim_hash": "6EC7B6CB",
+      "references": [
+        1125336,
+        2249952
+      ]
+    },
+    {
+      "name": "smbrightelbow",
+      "name_offset": 1156332,
+      "node_hash": "97560C03",
+      "anim_hash": "8AA8B599",
+      "references": [
+        1156208,
+        2251340
+      ]
+    },
+    {
+      "name": "smbstomp_nc",
+      "name_offset": 1164244,
+      "node_hash": "9857FD1D",
+      "anim_hash": "469EBC05",
+      "references": [
+        1164120,
+        2250728
+      ]
+    },
+    {
+      "name": "smbichorgroundslam_wall",
+      "name_offset": 1197564,
+      "node_hash": "9DFF1ADD",
+      "anim_hash": "AF896102",
+      "references": [
+        1197440,
+        2326108,
+        2326296
+      ]
+    },
+    {
+      "name": "smbichorairzip",
+      "name_offset": 1227228,
+      "node_hash": "A098FF34",
+      "anim_hash": "5E1073C6",
+      "references": [
+        1227104,
+        2213976,
+        2214016,
+        2214056,
+        2214096,
+        2214136,
+        2214176,
+        2214216,
+        2214256,
+        2214296,
+        2214336,
+        2214376,
+        2214416,
+        2214456,
+        2214496,
+        2214536,
+        2214576,
+        2214616,
+        2214656,
+        2214696,
+        2214736,
+        2214776,
+        2214816,
+        2214856,
+        2214896,
+        2214936,
+        2214976,
+        2215016
+      ]
+    },
+    {
+      "name": "smbichorgrndzip",
+      "name_offset": 1235452,
+      "node_hash": "A198C848",
+      "anim_hash": "02A69C35",
+      "references": [
+        1235328,
+        2327484,
+        2327524,
+        2327564,
+        2327604,
+        2327644,
+        2327684,
+        2327724,
+        2327764,
+        2327804,
+        2327844,
+        2327884,
+        2327924,
+        2327964,
+        2328004,
+        2328044,
+        2328084,
+        2328124,
+        2328164,
+        2328204,
+        2328244,
+        2328284,
+        2328324,
+        2328364,
+        2328404,
+        2328444,
+        2328484,
+        2328524,
+        2328564
+      ]
+    },
+    {
+      "name": "smbichorjump",
+      "name_offset": 1281148,
+      "node_hash": "A711B255",
+      "anim_hash": "C737B053",
+      "references": [
+        1281024,
+        2274696,
+        2274868,
+        2274908
+      ]
+    },
+    {
+      "name": "smbrightpunch",
+      "name_offset": 1301276,
+      "node_hash": "A9BC4065",
+      "anim_hash": "8B74E3FE",
+      "references": [
+        1301152,
+        2250544
+      ]
+    },
+    {
+      "name": "smbichorarmpull_wall",
+      "name_offset": 1346964,
+      "node_hash": "B1A4AC71",
+      "anim_hash": "8E2AFF43",
+      "references": [
+        1346840,
+        2324160,
+        2324200,
+        2324240,
+        2324280,
+        2324320,
+        2324360,
+        2324400,
+        2324440,
+        2324480,
+        2324520,
+        2324560,
+        2324600,
+        2324640,
+        2324680,
+        2324720,
+        2324760,
+        2324800,
+        2324840,
+        2324880,
+        2324920,
+        2324960,
+        2325000,
+        2325040
+      ]
+    },
+    {
+      "name": "smbichorchestexploder",
+      "name_offset": 1362340,
+      "node_hash": "B30D3AED",
+      "anim_hash": "C25B2411",
+      "references": [
+        1362216,
+        2246340,
+        2246508
+      ]
+    },
+    {
+      "name": "smbichorarmpullair",
+      "name_offset": 1365772,
+      "node_hash": "B3B83774",
+      "anim_hash": "AA53C0F0",
+      "references": [
+        1365648,
+        2209424,
+        2209464,
+        2209504,
+        2209544,
+        2209584,
+        2209624,
+        2209664,
+        2209704,
+        2209744,
+        2209784,
+        2209824,
+        2209864,
+        2209904,
+        2209944,
+        2209984,
+        2210024,
+        2210064,
+        2210104,
+        2210144,
+        2210184,
+        2210224,
+        2210264,
+        2210304
+      ]
+    },
+    {
+      "name": "smbichorshoulder_wall",
+      "name_offset": 1446628,
+      "node_hash": "C08832BC",
+      "anim_hash": "B30B7D8C",
+      "references": [
+        1446504,
+        2330044,
+        2330084,
+        2330124,
+        2330256
+      ]
+    },
+    {
+      "name": "smbichorsummon_02",
+      "name_offset": 1464204,
+      "node_hash": "C3B6D6FE",
+      "anim_hash": "4898E777",
+      "references": [
+        1464080,
+        2248100
+      ]
+    },
+    {
+      "name": "smbichorsummonexit",
+      "name_offset": 1476140,
+      "node_hash": "C5A19E18",
+      "anim_hash": "5BBA5A70",
+      "references": [
+        1476016,
+        2249428
+      ]
+    },
+    {
+      "name": "smbichorshoulderair",
+      "name_offset": 1494980,
+      "node_hash": "C947BD61",
+      "anim_hash": "EB3E18F9",
+      "references": [
+        1494856,
+        2216568
+      ]
+    },
+    {
+      "name": "smbichorshoulderair",
+      "name_offset": 1542516,
+      "node_hash": "CDA69841",
+      "anim_hash": "EB3E18F9",
+      "references": [
+        1542392,
+        2216520
+      ]
+    },
+    {
+      "name": "smbrightelbow",
+      "name_offset": 1564644,
+      "node_hash": "D3ACBAE6",
+      "anim_hash": "8AA8B599",
+      "references": [
+        1564520,
+        2254160
+      ]
+    },
+    {
+      "name": "smbichorarmpull_wall",
+      "name_offset": 1574860,
+      "node_hash": "D4B12308",
+      "anim_hash": "8E2AFF43",
+      "references": [
+        1574736,
+        2323060,
+        2323100,
+        2323140,
+        2323180,
+        2323220,
+        2323260,
+        2323300,
+        2323340,
+        2323380,
+        2323420,
+        2323460,
+        2323500,
+        2323540,
+        2323580,
+        2323620,
+        2323660,
+        2323700,
+        2323740,
+        2323780,
+        2323820,
+        2323860,
+        2323900,
+        2323940
+      ]
+    },
+    {
+      "name": "smbrightelbow",
+      "name_offset": 1578820,
+      "node_hash": "D58ED444",
+      "anim_hash": "8AA8B599",
+      "references": [
+        1578696,
+        2251912
+      ]
+    },
+    {
+      "name": "smbstomp_nc",
+      "name_offset": 1602556,
+      "node_hash": "D690C55E",
+      "anim_hash": "469EBC05",
+      "references": [
+        1602432,
+        2250932
+      ]
+    },
+    {
+      "name": "smbichorchokeair",
+      "name_offset": 1623636,
+      "node_hash": "D8D26306",
+      "anim_hash": "A7749D7D",
+      "references": [
+        1623512,
+        2213436
+      ]
+    },
+    {
+      "name": "smbrun2leftpunch",
+      "name_offset": 1631372,
+      "node_hash": "D9AAFE20",
+      "anim_hash": "9C41FAF2",
+      "references": [
+        1631248,
+        2249596
+      ]
+    },
+    {
+      "name": "smbichorairzip",
+      "name_offset": 1647316,
+      "node_hash": "DB89D47D",
+      "anim_hash": "5E1073C6",
+      "references": [
+        1647192,
+        2215252,
+        2215292,
+        2215332,
+        2215372,
+        2215412,
+        2215452,
+        2215492,
+        2215532,
+        2215572,
+        2215612,
+        2215652,
+        2215692,
+        2215732,
+        2215772,
+        2215812,
+        2215852,
+        2215892,
+        2215932,
+        2215972,
+        2216012,
+        2216052,
+        2216092,
+        2216132,
+        2216172,
+        2216212,
+        2216252,
+        2216292
+      ]
+    },
+    {
+      "name": "smbairswipeleftbackhand",
+      "name_offset": 1702732,
+      "node_hash": "E1A17418",
+      "anim_hash": "C1C0E87D",
+      "references": [
+        1702608,
+        2004928,
+        2196796
+      ]
+    },
+    {
+      "name": "smbichorshoulder",
+      "name_offset": 1748452,
+      "node_hash": "E79085B5",
+      "anim_hash": "6C4AC37D",
+      "references": [
+        1748328,
+        2279844
+      ]
+    },
+    {
+      "name": "smbichorchokeair",
+      "name_offset": 1800236,
+      "node_hash": "EDB92231",
+      "anim_hash": "A7749D7D",
+      "references": [
+        1800112,
+        2213664
+      ]
+    },
+    {
+      "name": "smbichorgrndzip",
+      "name_offset": 1804324,
+      "node_hash": "EE1C4891",
+      "anim_hash": "02A69C35",
+      "references": [
+        1804200,
+        2328804,
+        2328844,
+        2328884,
+        2328924,
+        2328964,
+        2329004,
+        2329044,
+        2329084,
+        2329124,
+        2329164,
+        2329204,
+        2329244,
+        2329284,
+        2329324,
+        2329364,
+        2329404,
+        2329444,
+        2329484,
+        2329524,
+        2329564,
+        2329604,
+        2329644,
+        2329684,
+        2329724,
+        2329764,
+        2329804,
+        2329844,
+        2329884
+      ]
+    },
+    {
+      "name": "smbichorchoke",
+      "name_offset": 1822660,
+      "node_hash": "F03CCF79",
+      "anim_hash": "ADA7F681",
+      "references": [
+        1822536,
+        2276424
+      ]
+    },
+    {
+      "name": "smbbackhandender",
+      "name_offset": 1846892,
+      "node_hash": "F351B3C3",
+      "anim_hash": "BD67D3DC",
+      "references": [
+        1846768,
+        2255268,
+        2255436
+      ]
+    },
+    {
+      "name": "smbichorwhipr",
+      "name_offset": 1883036,
+      "node_hash": "F751E2C4",
+      "anim_hash": "AF11C7C1",
+      "references": [
+        1882912,
+        2245084
+      ]
+    },
+    {
+      "name": "smbichorwhipl",
+      "name_offset": 1885100,
+      "node_hash": "F751E2C5",
+      "anim_hash": "AF11C7BB",
+      "references": [
+        1884976,
+        2245628,
+        2245796
+      ]
+    },
+    {
+      "name": "smbichorshoulderair",
+      "name_offset": 1939116,
+      "node_hash": "FE5793B3",
+      "anim_hash": "EB3E18F9",
+      "references": [
+        1938992,
+        2216664
+      ]
+    }
+  ]
+}

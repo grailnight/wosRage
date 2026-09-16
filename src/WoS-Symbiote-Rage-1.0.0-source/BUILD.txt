@@ -1,0 +1,22 @@
+WoS Symbiote Rage - building from source
+
+Requirements: Visual Studio (C++ x86 toolset) and Python 3.
+
+1. Adjust the Visual Studio and Python paths at the top of Build-Release.ps1
+   if yours differ.
+2. Run: powershell -File Build-Release.ps1
+   It regenerates rage_data.h, builds WoS_Rage.dll and "WoS Rage Loader.exe"
+   with /Brepro, and packs the release and source zips.
+
+Files
+- WoS_Rage.cpp        tendrils, hit effects, drips, HUD, EndScene hook, entry point
+- rage_inproc.h       Rage controller: memory scan, R key, suit switch, head grab,
+                      wall-pound clip swaps, Tendril Whip hold
+- rage_hud.h          RAGE bar
+- native_signatures.h byte signatures of the game functions used; the mod stays
+                      off when they do not match
+- rage_data.h         generated tables (make_rage_data.py)
+- attack_inventory.json / anim_hashes.json
+                      offsets and hashes read from the game's own animation set
+- rage_config.json    which ground attack plays which wall-pound clip
+- loader.cpp          starts or finds the game and loads WoS_Rage.dll
